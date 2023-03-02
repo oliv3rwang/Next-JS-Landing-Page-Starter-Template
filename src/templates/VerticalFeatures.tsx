@@ -3,8 +3,8 @@ import { Section } from '../layout/Section';
 
 const VerticalFeatures = () => (
   <Section
-    title="Your title here"
-    description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus malesuada nisi tellus, non imperdiet nisi tempor at."
+    title="AI POWERED INDUSTRY VERTICAL SOLUTIONS"
+    description="We bring data, cloud and our accelerators together to unlock data-driven insights and automationwe bring data, cloud and our accelerators together to unlock data-driven insights and automation"
   >
     <VerticalFeatureRow
       title="Your title here"
